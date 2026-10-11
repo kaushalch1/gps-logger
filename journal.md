@@ -32,3 +32,12 @@ in this part i had started with the power block that by adding the power usb c s
 
 
 -------
+# date:11/10
+# time spent:1hr
+## description:
+next i started studing about different types of antenas and started building the NEO-M9N receiver, which will help the device collect information such as location, speed, altitude which would be great for the project. then i worked on its power and ground connections and planned the connections between the gps module and the esp controller so they can communicate with each other. i also looked and verified at the antenna connection and the requirements for receiving signals properly and more accurately. this block is important because the gps data will be used to track journeys and save location info to the microsd card.
+## images:
+<img width="1245" height="747" alt="image" src="https://github.com/user-attachments/assets/b9b8fecd-7796-4434-96ea-14e203b6bdc2" />
+<img width="582" height="675" alt="image" src="https://github.com/user-attachments/assets/9be959b2-1251-46ed-9094-fee1fdedd3be" />
+
+-------
