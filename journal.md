@@ -21,3 +21,14 @@ i started with adding the micro controllert first by adding the esp-s3, which is
 <img width="1577" height="847" alt="image" src="https://github.com/user-attachments/assets/106453bd-bba4-438d-a666-33e89f4adb29" />
 
 -------
+# date:11/10
+# time spent:1.75hr
+## description:
+in this part i had started with the power block that by adding the power usb c so that it can charge and planned the two 5.1kΩ resistors for the cc pins so the device can draw power correctly from the source. i also planned the usb data connections for programming the ESP32 and included USB protection in the design. for battery charging I chose the BQ24074 charger because it supports powering the device while charging the battery. Finally, I worked on the plan for a 3.3v regulator to supply the ESP32 and other components along with battery monitoring and charging status indicators.
+## images:
+<img width="691" height="682" alt="image" src="https://github.com/user-attachments/assets/4a8c02f4-9e5d-4ef3-81f3-45f34db4a686" />
+<img width="562" height="746" alt="image" src="https://github.com/user-attachments/assets/ab1efde3-1042-4baa-b76f-6df63ba72c10" />
+<img width="1267" height="797" alt="image" src="https://github.com/user-attachments/assets/734f006f-db60-4c49-9db5-88c6fd2af45f" />
+
+
+-------
