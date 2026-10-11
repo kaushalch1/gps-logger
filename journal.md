@@ -41,3 +41,12 @@ next i started studing about different types of antenas and started building the
 <img width="582" height="675" alt="image" src="https://github.com/user-attachments/assets/9be959b2-1251-46ed-9094-fee1fdedd3be" />
 
 -------
+# date:11/10
+# time spent:0.75hr
+## description:
+next i started searching for the oled displays so that it can display the out put,planned to use a 0.96 inch SSD1306 oled screen to show information such as gps coordinates, speed, battery level.and then i searched for motion sensing, i chose the BMI270 accelerometer and gyroscope, which will help record movement data along with the GPS information.both devices are planned to share the same i2c bus to keep the circuit simpler. this will display information and collect motion data, which can later be saved to the microSD card.
+## images:
+<img width="1117" height="707" alt="image" src="https://github.com/user-attachments/assets/9a45e79a-8463-49e9-86c9-d7990be3c1c5" />
+<img width="1108" height="720" alt="image" src="https://github.com/user-attachments/assets/aa2b0afb-ee9d-4591-99ba-750cee6804cd" />
+
+-------
