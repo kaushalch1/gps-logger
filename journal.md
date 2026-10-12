@@ -50,3 +50,14 @@ next i started searching for the oled displays so that it can display the out pu
 <img width="1108" height="720" alt="image" src="https://github.com/user-attachments/assets/aa2b0afb-ee9d-4591-99ba-750cee6804cd" />
 
 -------
+# date:12/10
+# time spent:1.25hr
+## description:
+in this block i started learning how a sd card slot works and added one micro sd slot and using spi communication so the esp s3 microcontroller can save gps and sensor data directly to the card, even without a phone or bluetooth connection.i also added three buttons for controlling recording , marking waypointsand going through the software. i also planned a buzzer for alerts and a status led to indicate when the device is recording or needs attention. the next part is running the drc and checking the errors
+## images:
+<img width="1172" height="737" alt="image" src="https://github.com/user-attachments/assets/29552daa-b718-4b8f-87d6-90b210c5d7dc" />
+<img width="745" height="593" alt="image" src="https://github.com/user-attachments/assets/cc56babf-b915-40c4-bf1e-31065c247547" />
+<img width="975" height="741" alt="image" src="https://github.com/user-attachments/assets/3ebbb79c-f305-4a34-a558-3d509a508cb4" />
+
+
+-------
