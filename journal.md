@@ -61,3 +61,14 @@ in this block i started learning how a sd card slot works and added one micro sd
 
 
 -------
+# date:12/10
+# time spent:0.75hr
+## description:
+I started verifying my circuit one by one and then i started the electric rule checker and then started checking there was 55 errors and many other were warning , i started checking each one by one many were regarding the unleft pins,unconneted wires and i fixed them by going through each of them.
+## images:
+<img width="1585" height="770" alt="image" src="https://github.com/user-attachments/assets/3ec58588-a436-4f80-b916-68913b2383ce" />
+<img width="1447" height="792" alt="image" src="https://github.com/user-attachments/assets/f54f0acc-296a-4cd2-a396-d993977170cb" />
+<img width="1720" height="856" alt="image" src="https://github.com/user-attachments/assets/172659f6-2bc4-461b-bbea-853ca5c3dbba" />
+
+
+-------
