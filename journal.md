@@ -72,15 +72,22 @@ I started verifying my circuit one by one and then i started the electric rule c
 
 
 -------
-# date:12/10
+# date:13/10
 # time spent:0.75hr
 ## description:
 I had changed and added all the footprints which weren't assigned and also fixed some footprints.
 ## images:
 <img width="1650" height="883" alt="image" src="https://github.com/user-attachments/assets/33c4ebb1-e7b9-4410-8b16-3caa985432e8" />
 <img width="1651" height="878" alt="image" src="https://github.com/user-attachments/assets/1436185e-32f1-4a6a-a703-25dc028c2af7" />
-![Uploading image.png…]()
 
 
+
+-------
+# date:14/10
+# time spent:0.75hr
+## description:
+I had arranged all the grouped footprints and made them arrange in a proper layout so that everything works perfectly fine
+## images:
+<img width="1568" height="807" alt="image" src="https://github.com/user-attachments/assets/f821abb3-9341-40a2-970c-1e6a8a07755f" />
 
 -------
