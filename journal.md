@@ -91,3 +91,15 @@ I had arranged all the grouped footprints and made them arrange in a proper layo
 <img width="1568" height="807" alt="image" src="https://github.com/user-attachments/assets/f821abb3-9341-40a2-970c-1e6a8a07755f" />
 
 -------
+# date:17/10
+# time spent:2.5hr
+## description:
+I had started routing all the wires and then i had filled the ground planes and then i had fixed all the drc errors and comleted the pcb part.
+## images:
+<img width="878" height="767" alt="image" src="https://github.com/user-attachments/assets/f6d46a4c-2348-4dfc-87d0-4faa4f74cfb7" />
+<img width="1268" height="792" alt="image" src="https://github.com/user-attachments/assets/4856f302-4d9c-477e-93a6-caa56f7e33c3" />
+<img width="1917" height="828" alt="image" src="https://github.com/user-attachments/assets/acabdd9b-04ef-48a1-9100-ec2397185b54" />
+<img width="816" height="780" alt="image" src="https://github.com/user-attachments/assets/bc327b21-df82-4e2d-b784-731d7a4cf5ac" />
+
+
+-------
