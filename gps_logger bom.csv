@@ -1,39 +1,27 @@
-Reference,Qty / board,Value,Footprint,Part used (MPN),Supplier #,Unit price ($),Price basis,Ext. / board ($),Ext. all boards ($),Confidence,
-BZ1,1,Buzzer,Buzzer_Beeper:Buzzer_12x9.5RM7.6,THT magnetic buzzer D12xL9.5 (MPN not in BOM),(LCSC category),$1.0000,LCSC category listing $0.93-$1.11,$1.0000,$5.00,Low,
-"C1,C3,C4,C5,C6,C8",6,10uF,C_0805,Samsung CL21A106KAYNNNE 10uF 25V X5R,LCSC C15850,$0.0477,20+ tier (JLCPCB shows $0.0215 @1+),$0.2862,$1.43,High,
-C2,1,1uF,C_0805,0805 1uF X7R/X5R MLCC,(basic part),$0.0120,"Typical 0805 1uF price, 50+",$0.0120,$0.06,Low,
-"C7,C10,C11,C12",4,100nF,C_0805,Samsung CL21B104KBCNNNC 100nF 50V X7R,LCSC C1711,$0.0063,50+ tier,$0.0252,$0.13,High,
-C9,1,47pF,C_0805,0805 47pF C0G MLCC,(basic part),$0.0090,"Typical 0805 C0G price, 50+",$0.0090,$0.05,Low,
-D1,1,1N4148,D_DO-35 THT,Changzhou Starsea 1N4148 DO-35,LCSC C85057,$0.0124,50+ tier,$0.0124,$0.06,High,
-D2,1,LED,LED_0805,Nationstar NCD0805R1 (red),LCSC C84256,$0.0133,50+ tier,$0.0133,$0.07,Medium,
-J1,1,USB_C_Receptacle_USB2.0_16P,USB_C_HRO_TYPE-C-31-M-12,Korean Hroparts TYPE-C-31-M-12,LCSC C165948,$0.1857,5+ tier,$0.1857,$0.93,High,
-J3,1,Micro_SD_Card,microSD_HC_Hirose_DM3AT-SF-PEJM5,Hirose DM3AT-SF-PEJM5,LCSC C114218,$1.1151,1+ tier (10+ $0.9573),$1.1151,$5.58,Medium,
-J4,1,Conn_01x02_Pin,JST_PH_B2B-PH-K_1x02,JST B2B-PH-K-S(LF)(SN),LCSC C131337,$0.0333,20+ tier,$0.0333,$0.17,High,
-JP1,1,U.FL-R-SMT-1,UFL-R-SMT-1-10,HRS U.FL-R-SMT-1(10),LCSC C88373,$0.1939,5+ tier,$0.1939,$0.97,High,
-L1,1,27nH,L_0805,EMTEK HSC0805-27NJ-T,LCSC C251825,$0.0893,5+ tier,$0.0893,$0.45,Medium,
-Q1,1,2N3904,TO-92,ST(Semtech) 2N3904,LCSC C118538,$0.0149,50+ tier,$0.0149,$0.07,High,
-"R1,R4,R12",3,10k,R_0805,0805 1% thick-film,(basic part),$0.0041,100+ tier of same-class Yageo 0805 1%,$0.0123,$0.06,Low,
-"R2,R3",2,5k,R_0805,0805 1% thick-film,(basic part),$0.0041,same,$0.0082,$0.04,Low,
-R5,1,1.5k,R_0805,0805 1% thick-film,(basic part),$0.0041,same,$0.0041,$0.02,Low,
-R6,1,1.8k,R_0805,0805 1% thick-film,(basic part),$0.0041,same,$0.0041,$0.02,Low,
-"R7,R8",2,100k,R_0805,0805 1% thick-film,(basic part),$0.0041,same,$0.0082,$0.04,Low,
-R9,1,2.1k,R_0805,0805 1% thick-film,(basic part),$0.0041,same,$0.0041,$0.02,Low,
-"R10,R11",2,4.7k,R_0805,0805 1% thick-film,(basic part),$0.0041,same,$0.0082,$0.04,Low,
-"R13,R14",2,1k,R_0805,0805 1% thick-film,(basic part),$0.0041,same,$0.0082,$0.04,Low,
-SW1-SW5,5,SW_Push,SW_SPST_PTS645Sx43SMTR92,C&K PTS645SM43SMTR92LFS,LCSC C221880,$0.4082,10+ tier,$2.0410,$10.21,Medium,
-U1,1,ESP32-S3-WROOM-1,WIRELM-SMD_ESP32-S3-WROOM-1,Espressif ESP32-S3-WROOM-1-N16R8,LCSC C2913202,$5.5356,1+ tier (10+ $4.9139),$5.5356,$27.68,High,
-U2,1,BQ24074RGT,VQFN-16-1EP_3x3mm,TI BQ24074RGTR,LCSC C54313,$1.5891,1+ tier (10+ $1.3859),$1.5891,$7.95,High,
-U3,1,AP2112K-3.3,SOT-23-5,Diodes AP2112K-3.3TRG1,LCSC C51118,$0.1305,5+ tier,$0.1305,$0.65,High,
-U4,1,USBLC6-2SC6,SOT-23-6,ST USBLC6-2SC6,LCSC C7519,$0.1283,5+ tier (another mirror $0.1069),$0.1283,$0.64,High,
-U5,1,NEO-M9N,RF_GPS:ublox_NEO,u-blox NEO-M9N-00B,LCSC C5119087,$16.4146,"qty-1 price via Flux listing; Mouser $15.68, Digi-Key $27",$16.4146,$82.07,Medium,
-U6,1,ER_OLEDM0.91_1x-I2C,Display:ER_OLEDM0.91_1x-I2C,BuyDisplay ER-OLEDM0.91-1W-I2C (white assumed),buydisplay.com,$2.8000,1 pc (10+ $2.73),$2.8000,$14.00,Medium,
-U7,1,BMI270,LGA-14_L3.0-W2.5,Bosch BMI270,LCSC C2836813,$1.8389,1+ tier (mirrors $1.80-$1.84),$1.8389,$9.19,High,
-,,,,,,,,,,,
-Components total,,,,,,,,$33.53,$167.63,,
-PCB fabrication,,,,,,,,$0.40,$2.00,,
-PCBA assembly fees,,,,,,,,$7.96,$39.79,,
-GRAND TOTAL (excl. shipping & tax),,,,,,,,$41.88,$209.42,,
-Boards in this estimate,,,,,,,,,5,,
-Cost per assembled board,,,,,,,,,$41.88,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+ESP32-S3-WROOM-1-N16R8,Main MCU (Wi-Fi/BLE),1,5.54,https://www.lcsc.com/product-detail/C2913202.html,LCSC
+NEO-M9N-00B,GNSS receiver,1,16.41,https://www.lcsc.com/product-detail/C5119087.html,LCSC
+BQ24074RGTR,Li-ion battery charger / power path,1,1.59,https://www.lcsc.com/product-detail/C54313.html,LCSC
+AP2112K-3.3TRG1,3.3V LDO regulator,1,0.13,https://www.lcsc.com/product-detail/C51118.html,LCSC
+USBLC6-2SC6,USB ESD protection,1,0.13,https://www.lcsc.com/product-detail/C7519.html,LCSC
+BMI270,IMU (accelerometer/gyro),1,1.84,https://www.lcsc.com/product-detail/C2836813.html,LCSC
+0.91 inch OLED (ER-OLEDM0.91-1W-I2C),Display,1,2.8,https://www.buydisplay.com/i2c-white-0-91-inch-oled-display-module-128x32-arduino-raspberry-pi,BuyDisplay
+USB-C receptacle (TYPE-C-31-M-12),USB-C charging and data port,1,0.19,https://www.lcsc.com/product-detail/C165948.html,LCSC
+microSD socket (DM3AT-SF-PEJM5),Data logging storage,1,1.12,https://www.lcsc.com/product-detail/C114218.html,LCSC
+JST PH 2-pin header (B2B-PH-K-S),Battery connector,1,0.03,https://www.lcsc.com/product-detail/C131337.html,LCSC
+U.FL connector (U.FL-R-SMT-1),GNSS antenna connector,1,0.19,https://www.lcsc.com/product-detail/C88373.html,LCSC
+Tact switch (PTS645SM43SMTR92LFS),User buttons,5,2.04,https://www.lcsc.com/product-detail/C221880.html,LCSC
+Buzzer 12x9.5mm THT,Audible alerts,1,1,https://www.lcsc.com/category/51.html,LCSC
+2N3904,Buzzer driver transistor,1,0.01,https://www.lcsc.com/product-detail/C118538.html,LCSC
+1N4148 (DO-35),Signal/protection diode,1,0.01,https://www.lcsc.com/product-detail/C85057.html,LCSC
+LED 0805 (red),Status LED,1,0.01,https://www.lcsc.com/product-detail/C84256.html,LCSC
+27nH inductor 0805,RF matching inductor,1,0.09,https://www.lcsc.com/product-detail/C251825.html,LCSC
+10uF capacitor 0805,Bulk/decoupling capacitors,6,0.29,https://www.lcsc.com/product-detail/C15850.html,LCSC
+1uF capacitor 0805,Filter capacitor,1,0.01,https://www.lcsc.com/search?q=CL21B105KBFNNNE,LCSC
+100nF capacitor 0805,IC bypass capacitors,4,0.03,https://www.lcsc.com/product-detail/C1711.html,LCSC
+47pF capacitor 0805,Filter capacitor,1,0.01,https://www.lcsc.com/search?q=0805+47pF+C0G,LCSC
+"Resistors 0805 (10k, 5k, 1.5k, 1.8k, 100k, 2.1k, 4.7k, 1k)","Pull-ups, LED and divider resistors",14,0.06,https://www.lcsc.com/search?q=0805+1%25+resistor,LCSC
+PCB (bare boards),Main PCBs,1,0.4,https://jlcpcb.com/,JLCPCB
+PCB assembly (PCBA fees),SMT + through-hole assembly fees,1,7.96,https://jlcpcb.com/,JLCPCB
+,,,,,
+,,,41.89,,
