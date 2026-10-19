@@ -11,6 +11,8 @@ Storage	microSD card
 Power	USB-C 
 RTC	DS3231 
 Controls	5 buttons + reset	Menu navigation
+## images:
+<img width="1291" height="750" alt="image" src="https://github.com/user-attachments/assets/bc662008-1252-4330-823d-fdeb9c35ea4a" />
 
 -------
 # date:11/10
@@ -84,7 +86,7 @@ I had changed and added all the footprints which weren't assigned and also fixed
 
 -------
 # date:14/10
-# time spent:0.75hr
+# time spent:1hr
 ## description:
 I had arranged all the grouped footprints and made them arrange in a proper layout so that everything works perfectly fine
 ## images:
@@ -100,6 +102,17 @@ I had started routing all the wires and then i had filled the ground planes and 
 <img width="1268" height="792" alt="image" src="https://github.com/user-attachments/assets/4856f302-4d9c-477e-93a6-caa56f7e33c3" />
 <img width="1917" height="828" alt="image" src="https://github.com/user-attachments/assets/acabdd9b-04ef-48a1-9100-ec2397185b54" />
 <img width="816" height="780" alt="image" src="https://github.com/user-attachments/assets/bc327b21-df82-4e2d-b784-731d7a4cf5ac" />
+
+
+-------
+# date:17/10
+# time spent:1.5hr
+## description:
+i had started learning how to build firmware and then learned the basics of it and then tried to build the gps logger in the wokwi online simulator and then with the help of ai i tried learning and building the firmware.
+## images:
+<img width="1295" height="827" alt="image" src="https://github.com/user-attachments/assets/25aca0d7-320d-4d70-9bc9-7c3e1a148e38" />
+<img width="467" height="248" alt="image" src="https://github.com/user-attachments/assets/19acdae3-8baf-4979-b374-0e8efc4db270" />
+
 
 
 -------
